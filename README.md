@@ -5,8 +5,8 @@ The main task is to build a software application to ease the management of sever
 
 Software Requirements:
 -The software must be built separately for server-side and client-side.
--Database
--GUI
+-Database.
+-GUI.
 
 Customer Requirements:
 -Make new reservation.
